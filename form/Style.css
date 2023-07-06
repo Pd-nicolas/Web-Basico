@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+
+.header{
+    color:#FFFFFF;
+}
+
+.name{
+    color: #FFFFFF  ;
+}
+.namebox{
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.university{
+    color: #FFFFFF;
+}
+
+.state{
+    color: #FFFFFF;
+}
